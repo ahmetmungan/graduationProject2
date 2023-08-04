@@ -2,6 +2,8 @@
 
 This project was carried out in the Turkish language, hence the variable names and explanations are in Turkish. However, the development methodology is consistent with general computer science logic.
 
+The project developed with Yemeksepeti was presented as a pre-presentation at the school as a graduation project.
+
 The focus of this project is on natural language processing. I used this technique to analyze user reviews for restaurants affiliated with two food delivery services - Yemeksepeti and GetirYemek. The reviews are live data; the data reflects the reviews made by users to the restaurants at that moment.
 
 Data mining and text mining stages include:
