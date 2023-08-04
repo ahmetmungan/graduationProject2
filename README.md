@@ -28,5 +28,6 @@ After these processes, unsupervised learning algorithms have been used. The mach
 5. Summaries based on distances
 6. Printing and checking the inferences.
 
-This project is a valuable example of software with a computational complexity of n^3 and has substantial utility.
+This project serves as a significant illustration of software with a computational complexity of O(n<sup>3</sup>) and holds substantial practicality.
+
 
